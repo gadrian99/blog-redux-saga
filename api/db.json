@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "userId": 1,
+      "name": "Adrian Garcia",
+      "content": "The human body was designed by a civil engineer. Who else would run a toxic waste pipeline through a recreational area?"
+    },
+    {
+      "userId": 2,
+      "name": "Pepito Perez",
+      "content": "I like to wax my legs and stick the hair on my back. Why? Because it keeps my back warm. There's method in my madness."
+    },
+    {
+      "userId": 3,
+      "name": "Armando Paredes Icasas",
+      "content": "I told my wife the truth. I told her I was seeing a psychiatrist. Then she told me the truth: that she was seeing a psychiatrist, two plumbers, and a bartender."
+    },
+    {
+      "userId": 4,
+      "name": "Rafael Nieto de Dios",
+      "content": "If I could I would. Wether or not I should, I still would."
+    },
+    {
+      "userId": 5,
+      "name": "Juan Macho Seco",
+      "content": "Sometimes I wonder if I really can. But then I think to myself, maybe I can't. But if I could, that would be good. Maybe it's all a lie?"
+    }
+  ]
+}
